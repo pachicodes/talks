@@ -1,7 +1,7 @@
 ## Talks - Palestras
 
-- [O que é DevRel](talks/devrel.md)
-- [Mulheres & Tecnologia: A Importancia da Representação](talks/mulheres-tech.md)
+- [O que é DevRel](talks/palestras/devrel.md)
+- [Mulheres & Tecnologia: A Importância da Representação](talks/palestras/mulheres-tech.md)
 
 
 
