@@ -1,6 +1,7 @@
 ## Short
-Pachi works as a Developer Relations Engineer at New Relic and is a Streamer and Co-Founder of Feministech, an online community for Brazilian women and non-binary people who share and learn tech with live coding. 
-Her passions include community building, hyping her friends and live coding on Twitch.
+Pachi works as a Developer Advocate at GiitHub and is a Streamer and Co-Founder of Feministech, an online community for Brazilian women and non-binary people who create tech content. 
+When she's not engaging on Twitter or streaming on Twitch, Pachi watches anime, reads too many romance novels, and Hypes people on the internet like that is her job.
+
 
 ## Full
 Pachi is a Nanny who turned into a Developer Advocate.
