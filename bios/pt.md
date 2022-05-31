@@ -1,6 +1,6 @@
 ## Bios
 ### Mini Bio
-Patricia, ou Pachi Codes como é conhecida pela comunidade, é Streamer e Co-Fundadora da Feministech e trabalha como Developer Adcovate na Github.
+Patricia, ou Pachi Codes como é conhecida pela comunidade, é Co-Fundadora da Feministech, uma comunidade online de pessoas que se identificam no feminino ou não binárias, e criam conteúdo sobre tech. Atualmente trabalha como Developer Advocate na Github, com foco na comunidade brasileira.
 Suas paixões incluem comunidades, tecnologia, empoderar mulheres, e seus gatos Diana, Nica e Shion.
 
 ### Bio
