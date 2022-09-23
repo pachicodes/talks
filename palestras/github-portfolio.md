@@ -1,1 +1,5 @@
 ## Usando Github como Portfolio
+O GitHub é uma plataforma padrão para a grande maioria das pessoas desenvolvedoras.
+Não importa se você começou a aprender a prorgamar ontem ou programa há anos, essa é uma ferramenta que tem uso para todes.
+Na busca por um emprego na área, muitas vezes a pessoa recrutadora visita seu GitHub e ainda te pede para ver seu portfolio. Então porque não juntar os dois?
+Nessa palestrar eu vou te ensinar a fazer o melhor uso possível do seu perfil, compartilhar algumas dicas e curiosidades que usamos no GitHub, e você vai sair da palestra com um perfil atrativo que te de orgulho de compartilhar.
