@@ -43,6 +43,8 @@ Palestra: Mulheres e Tech: A importância da representação
 Palestra: O que é DevRel?
 ---
 
+![Fundo azul escuro. Centralizado na parte superior está escrito "Meetup Ada Lovelace". No centro, temos um desenho feito representando a Ada Lovelace. Tem várias setas apontando para várias palavras, espalhadas pela imagem. São elas: mulher, escritora, matemática, poetisa, inventora, tradutora, engenheira, e em destaque temos primeira pessoa programadora.](https://user-images.githubusercontent.com/44537285/194555696-5ea6a705-ca5e-4123-bfe4-dfd6d0f1f2ca.png)
+oda de conversa com Morganna Giovanelli, Jessica Trindade, Patrícia Villela, Nathally Souza, Pachi Parra, Kamila Santos. Tema da roda de conversa: "Como usar a comunicação para evoluir tecnicamente?"
 
 
 
