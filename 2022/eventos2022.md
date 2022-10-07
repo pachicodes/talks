@@ -15,4 +15,7 @@ Live: Por que precisamos de mais mulheres na área tecnológica?
 I was a guest speaker on This Dot Media Women's day event.
 ---
 
+![Apresentadora do Meet-Up Feministalk de Fevereiro.](https://user-images.githubusercontent.com/44537285/194553682-67f45ed7-1674-49f3-9feb-2ed499edd77a.png)
+Apresentadora do Meet-Up Feministalk de Fevereiro. Tema: Como Palestrar? Com Camila Campos e Mariana Silva 
+--- 
 
