@@ -1,6 +1,5 @@
-
-![Fundo roxo. No canto superior direito, ícone da Feministech. No meio, foto da Pachi, e ao lado logo da Hacktoberfest. Embaixo, texto "Pachi Parra". Com indicação que os pronomes são "Ela/Dela". Embaixo, título "Keynote do Github". No rodapé, texto "08/10 14h", e ao lado "Acompanhe ao vivo em twitch.tv/danicaus"](https://user-images.githubusercontent.com/44537285/194552221-bb0c7d73-33ed-47e3-8674-5aea70a33c7a.png)
-A Keynote do Feministalk Hacktoberfest será a @pachicodes!
+![Palestra: Usando Github como Portfolio](https://user-images.githubusercontent.com/44537285/194556678-b80eef52-22a9-4cee-a0d8-f63df8054803.png)
+Palestra: Usando Github como Portfolio
 ---
 
 ![What can we learn about running champion programs from those who’ve taken part in them? Hear from Erin, Ali, and Pachi in this roundtable from DevRelCon Deep Dives.](https://user-images.githubusercontent.com/44537285/194553163-5163e1b2-7445-4bef-b644-3942b17b4130.png)
@@ -45,6 +44,10 @@ Palestra: O que é DevRel?
 
 ![Fundo azul escuro. Centralizado na parte superior está escrito "Meetup Ada Lovelace". No centro, temos um desenho feito representando a Ada Lovelace. Tem várias setas apontando para várias palavras, espalhadas pela imagem. São elas: mulher, escritora, matemática, poetisa, inventora, tradutora, engenheira, e em destaque temos primeira pessoa programadora.](https://user-images.githubusercontent.com/44537285/194555696-5ea6a705-ca5e-4123-bfe4-dfd6d0f1f2ca.png)
 Roda de conversa com Morganna Giovanelli, Jessica Trindade, Patrícia Villela, Nathally Souza, Pachi Parra, Kamila Santos. Tema da roda de conversa: "Como usar a comunicação para evoluir tecnicamente?"
+---
+
+![Fundo roxo. No canto superior direito, ícone da Feministech. No meio, foto da Pachi, e ao lado logo da Hacktoberfest. Embaixo, texto "Pachi Parra". Com indicação que os pronomes são "Ela/Dela". Embaixo, título "Keynote do Github". No rodapé, texto "08/10 14h", e ao lado "Acompanhe ao vivo em twitch.tv/danicaus"](https://user-images.githubusercontent.com/44537285/194552221-bb0c7d73-33ed-47e3-8674-5aea70a33c7a.png)
+A Keynote do Feministalk Hacktoberfest será a @pachicodes!
 ---
 
 
