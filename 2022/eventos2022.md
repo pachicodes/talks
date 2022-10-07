@@ -19,3 +19,14 @@ I was a guest speaker on This Dot Media Women's day event.
 Apresentadora do Meet-Up Feministalk de Fevereiro. Tema: Como Palestrar? Com Camila Campos e Mariana Silva 
 --- 
 
+![Talk no FrontIn Senior:  "Observe seu código como vc observa reality show." ](https://user-images.githubusercontent.com/44537285/194553794-51708c1e-1f9f-463b-9431-d3cab83e4cdf.png)
+Talk no FrontIn Senior:  "Observe seu código como vc observa reality show." 
+---
+
+![Intro to DevRel talk followed by slack AMA for Women Who Code](https://user-images.githubusercontent.com/44537285/194553894-c8566d9d-ca3c-41c4-a061-9d30e7dc85ed.png)
+Intro to DevRel talk followed by slack AMA for Women Who Code Presented by Women Who Code Career Nav
+---
+
+
+
+
