@@ -27,6 +27,26 @@ Talk no FrontIn Senior:  "Observe seu código como vc observa reality show."
 Intro to DevRel talk followed by slack AMA for Women Who Code Presented by Women Who Code Career Nav
 ---
 
+![Women and Tech: Why Representation Matters @codeland2022](https://user-images.githubusercontent.com/44537285/194554157-743164e8-ea45-44ad-bc4f-2bb9f33006ba.png)
+Women and Tech: Why Representation Matters @codeland2022
+---
+
+![Painel Para que serve, afinal, o DevRel?](https://user-images.githubusercontent.com/44537285/194554938-f15592c1-d2b3-4e0d-afa1-299dfcb58125.png)
+Painel: Para que serve, afinal, o DevRel?
+---
+
+![Palestra: Mulheres e Tech: A importância da representação](https://user-images.githubusercontent.com/44537285/194555154-0bd6d0e4-8b23-415b-a4c4-1df1af11256b.png)
+Palestra: Mulheres e Tech: A importância da representação
+---
+
+![Palestra: O que é DevRel?](https://user-images.githubusercontent.com/44537285/194555416-cb3bc77e-ef98-466e-aa46-701376d894b1.png)
+Palestra: O que é DevRel?
+---
+
+
+
+
+
 
 
 
