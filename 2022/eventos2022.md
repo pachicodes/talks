@@ -5,7 +5,9 @@ A Keynote do Feministalk Hacktoberfest será a @pachicodes!
 
 ![What can we learn about running champion programs from those who’ve taken part in them? Hear from Erin, Ali, and Pachi in this roundtable from DevRelCon Deep Dives.](https://user-images.githubusercontent.com/44537285/194553163-5163e1b2-7445-4bef-b644-3942b17b4130.png)
 
-What can we learn about running champion programs from those who’ve taken part in them?
+What can we learn about running champion programs from those who’ve taken part in them? Hear from Erin, Ali, and Pachi in this roundtable from DevRelCon Deep Dives.
 
-Hear from Erin, Ali, and Pachi in this roundtable from DevRelCon Deep Dives.
+![Live: Por que precisamos de mais mulheres na área tecnológica?](https://user-images.githubusercontent.com/44537285/194553360-6ac72b49-3017-450d-affd-dbf3e14d1d37.png)
+Live: Por que precisamos de mais mulheres na área tecnológica?
+
 
