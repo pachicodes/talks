@@ -3,3 +3,9 @@
 
 Open Source é um assunto que sempre ouvimos falar no meio de programação, mas muitas pessoas apesar de curiosas e interessadas, não tem ideia de como contribuir ou apenas pensam que não tem com o que ajudar.
 Para essas pessoas eu venho dizer que Open Source é muito mais do que código! Tradução, documentação, testes e design e são algumas das maneiras de contribuir além do código, e nessa palestra vamos aprender sobre isso, para que você saia dela confiante para fazer uma contribuição.
+
+
+- O que é Open Source?
+- Por que contribuir?
+- Maneiras de contribuir
+
