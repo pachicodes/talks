@@ -5,6 +5,7 @@
 - [Open Source como Ferramenta de Inovação](https://github.com/pachicodes/talks/blob/main/palestras/oss-como-ferramenta.md)
 - [Contribuindo com Open Source sem código](https://github.com/pachicodes/talks/blob/main/palestras/contribuindo-com-oss-nocode.md)
 - Containers?
+- Um belo teste
 
 ### English
 - [GitHub Guide: Superpower Your Profile](https://github.com/pachicodes/talks/blob/main/talks/github-profile.md)
