@@ -1,7 +1,7 @@
 ## Bios
 ### Mini Bio
-Patricia, ou Pachi Codes como é conhecida pela comunidade, é Co-Fundadora da Feministech, uma comunidade online de pessoas que se identificam no feminino ou não binárias, e atua como Developer Advocate, Tech Community Manager e Especialista em DevRel.
-Suas paixões incluem comunidades, empoderar mulheres, anime e seus gatos.
+Pachi é especialista em DevRel e entusiasta de Open Source, atuando como Developer Relations Lead na Webcrumbs e como consultora de eventos e comunidades tech no Nubank.
+Co-Fundadora da Feministech, uma comunidade online de pessoas que se identificam no feminino ou não binárias, suas paixões incluem comunidades, empoderar mulheres, anime e seus gatos.
 
 ### Bio
 Patricia, ou Pachi Codes como é conhecida pela comunidade, foi babá nos Estados Unidos por muitos anos antes de começar a aprender Front-End com cursos grátis online.
