@@ -1,5 +1,5 @@
 ## Short
-Pachi works as a Developer Advocate at GiitHub and is a Streamer and Co-Founder of Feministech, an online community for Brazilian women and non-binary people who create tech content. 
+Pachi is a front-end dev turned DevRl. She currently works as a Developer Relations Lead at Webcrumbs, where they have big plans to build a better web. She is also a Streamer and Co-Founder of Feministech, community for Brazilian women and non-binary people in tech. 
 When she's not engaging on Twitter or streaming on Twitch, Pachi watches anime, reads too many romance novels, and Hypes people on the internet like that is her job.
 
 
