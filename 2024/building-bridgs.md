@@ -1,0 +1,3 @@
+# Building Bridges: How Open Source Contributions Enhance Your Web Development Career
+
+This talk explores the symbiotic relationship between personal career development and contributions to open source projects. We'll look at the skills developers can hone, the visibility they can gain in the tech community, and the doors that can open through regular contributions to open source. Real-life success stories will showcase developers who have leveraged their open source work to secure promotions, job offers, and speaking opportunities. Additionally, tips will be provided on how to start contributing, how to choose projects that align with your career goals, and how to document your contributions for career growth.
