@@ -1,10 +1,13 @@
 ## Bios
+Sou Developer Advocate no @GitHubBrasil, fundadora da @AbacateTech e co-fundadora da @Feministech_! 🚀
+Trabalho com DevRel, comunidades e criação de conteúdo para fortalecer o ecossistema tech. Bora construir juntos? 💚
+
 ### Mini Bio
-Pachi é especialista em DevRel e entusiasta de Open Source, atuando como Developer Relations Lead na Webcrumbs e como consultora de eventos e comunidades tech no Nubank.
-Co-Fundadora da Feministech, uma comunidade online de pessoas que se identificam no feminino ou não binárias, suas paixões incluem comunidades, empoderar mulheres, anime e seus gatos.
+Developer Advocate no GitHub, focada na comunidade dev brasileira. Fundadora da Abacate Tech e co-fundadora da Feministech. Palestrante, mentora e apaixonada por construir um ecossistema tech mais inclusivo e colaborativo. 💚🚀
 
 ### Bio
-Patricia, ou Pachi Codes como é conhecida pela comunidade, foi babá nos Estados Unidos por muitos anos antes de começar a aprender Front-End com cursos grátis online.
+Pachi Parra atua como Developer Advocate no GitHub, focada na comunidade de pessoas desenvolvedoras no Brasil. Especialista em Developer Relations, gerenciamento de comunidades e eventos tech, e criação de conteúdo técnico, ela é fundadora da Abacate Tech, pioneira em consultoria DevRel no Brasil, e co-fundadora da Feministech, comunidade que fortalece a presença de mulheres e pessoas LGBTQIAP+ na tecnologia.
 
-Muito ativa online, Pachi se apaixonou pela comunidade e, mesmo sendo iniciante, ela começou a ensinar o que sabia e a compartilhar seu aprendizado e jornada em tech escrevendo e com lives de código, 
-e foi assim que se interessou por Relações com Pessoas Desenvolvedoras e agora é uma Developer Advocate na Github.
+Palestrante, mentora e apaixonada por construir relações que nutrem o ecossistema tech, Pachi está sempre em busca de maneiras de democratizar o acesso à tecnologia e promover um ambiente mais inclusivo e colaborativo. 🚀💚
+
+
