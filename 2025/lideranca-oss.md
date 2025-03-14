@@ -1,0 +1,2 @@
+## Incentivando Seu Time a Contribuir com Open Source (e Por Que Isso Faz Toda Diferença!)
+Muitas empresas usam Open Source, mas poucas incentivam suas equipes a contribuírem de volta. Como líderes técnicos podem mudar isso? Nesta palestra, vamos explorar estratégias para motivar times a se envolverem com Open Source, os benefícios para pessoas desenvolvedoras e empresas, e como superar barreiras como tempo, reconhecimento e prioridade. Contribuir não é só sobre código—é sobre aprendizado, networking e inovação.
